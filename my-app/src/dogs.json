@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "viszla",
+        "image": "./assets/viszla.jpg"
+    },
+    {
+        "breed": "boxer",
+        "image": "./assets/boxer.jpg"
+    },
+    {
+        "breed": "bulldog",
+        "image": "./assets/bulldog.jpg"
+    },
+    {
+        "breed": "burmese",
+        "image": "./assets/burmese.jpg"
+    },
+    {
+        "breed": "english",
+        "image": "./assets/english.jpg"
+    },
+    {
+        "breed": "golden",
+        "image": "./assets/golden.jpg"
+    },
+    {
+        "breed": "happy",
+        "image": "./assets/happy.jpg"
+    },
+    {
+        "breed": "happy2",
+        "image": "./assets/happy2.jpg"
+    },
+    {
+        "breed": "labrador",
+        "image": "./assets/labrador.jpg"
+    },
+    {
+        "breed": "pitbull",
+        "image": "./assets/pitbull.jpg"
+    },
+    {
+        "breed": "pitty",
+        "image": "./assets/pitty.jpg"
+    },
+    {
+        "breed": "rando",
+        "image": "./assets/rando.jpg"
+    },
+    {
+        "breed": "spaniel",
+        "image": "./assets/spaniel.jpg"
+    },
+    {
+        "breed": "staffordshire",
+        "image": "./assets/staffordshire.jpg"
+    },
+    {
+        "breed": "white",
+        "image": "./assets/white.jpg"
+    }
+]
